@@ -52,4 +52,4 @@ def graph_show_time(durations):
 
 graph_show_accuracy(scores)
 graph_show_time(durations)
-
+ 
